@@ -1,5 +1,7 @@
 # Hi there 👋
 
+https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif
+
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
@@ -25,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnavopramanik&show_icons=true&locale=en" alt="swarnavopramanik" /></p>
 
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
