@@ -1,6 +1,6 @@
 # Hi there 👋
 
-https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif
+![image](https://user-images.githubusercontent.com/105142693/188261925-de47cacd-3788-4ccd-92b6-8eddffcfe87a.png)
 
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
