@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ![image](https://user-images.githubusercontent.com/105142693/188261925-de47cacd-3788-4ccd-92b6-8eddffcfe87a.png)
 
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
