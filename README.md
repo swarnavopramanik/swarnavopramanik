@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/105142693/188261925-de47cacd-3788-4ccd-92b6-8eddffcfe87a.png)
+![image](https://user-images.githubusercontent.com/105142693/188321939-84bbc98e-6f6e-4ddc-9c6d-de48b56ab8ae.png)
+
 
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>
