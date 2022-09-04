@@ -28,3 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnavopramanik&show_icons=true&locale=en" alt="swarnavopramanik" /></p>
 
+![image](https://user-images.githubusercontent.com/105142693/188321832-c6c10901-cb50-4ea5-9555-20aee829cde3.png)
+
+
