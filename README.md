@@ -1,12 +1,13 @@
 ## ![image](https://user-images.githubusercontent.com/105142693/189518622-13d66fea-02a3-4a90-b1ba-5318870a58a9.png)
 
-
-
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>
 
+[![swarnavopramanik's GitHub | Stats](https://stats.quine.sh/swarnavopramanik/github?theme=dark)](https://quine.sh)
  ![image](https://user-images.githubusercontent.com/105142693/188261970-e8c1f7a7-0f08-4c0d-8a0d-c01ca1d6b5a3.png)
 
+[![swarnavopramanik's GitHub | Languages Over Time](https://stats.quine.sh/swarnavopramanik/languages-over-time?theme=dark)](https://quine.sh)
+[![swarnavopramanik's GitHub | Topics Over Time](https://stats.quine.sh/swarnavopramanik/topics-over-time?theme=dark)](https://quine.sh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnavopramanik&label=Profile%20views&color=0e75b6&style=flat" alt="swarnavopramanik" /> </p>
 
