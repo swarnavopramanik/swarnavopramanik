@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/swarnavo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/swarnavo1" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/swarnavopramanik" target="blank"><img align="center" src="https://codesandbox.io/dashboard/recent?workspace=d7ad45b2-94fa-49cd-a8a8-d411f5686f91" alt="https://codesandbox.io/u/swarnavopramanik" height="30" width="40" /></a>
-<a href="https://leetcode.com/swarnavo1701/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5903f" height="30" width="40" /></a>
+
+ <a href="https://leetcode.com/swarnavo1701/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5903f" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
