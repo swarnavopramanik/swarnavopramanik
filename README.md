@@ -8,11 +8,7 @@
 <h4 align="center">https://quine.sh</h4>
 <p align="center"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnavopramanik&label=Profile%20views&color=0e75b6&style=flat" alt="swarnavopramanik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://vercel.com/swarnavopramanik" username=swarnavopramanik" alt="swarnavopramanik" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/swarnavopramanik/overview](https://app.netlify.com/teams/swarnavopramanik/overview)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **swarnavo.pramanik1701@gmail.com**
 
