@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>
 
- ![swarnavopramanik's GitHub | Stats](https://stats.quine.sh/swarnavopramanik/github?theme=dark)](https://quine.sh)
  ![image](https://user-images.githubusercontent.com/105142693/188261970-e8c1f7a7-0f08-4c0d-8a0d-c01ca1d6b5a3.png)
 
+ ![swarnavopramanik's GitHub | Stats](https://stats.quine.sh/swarnavopramanik/github?theme=dark)](https://quine.sh)
 [![swarnavopramanik's GitHub | Languages Over Time](https://stats.quine.sh/swarnavopramanik/languages-over-time?theme=dark)](https://quine.sh)
 
 
