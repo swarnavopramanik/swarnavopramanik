@@ -5,7 +5,7 @@
 
  ![image](https://user-images.githubusercontent.com/105142693/188261970-e8c1f7a7-0f08-4c0d-8a0d-c01ca1d6b5a3.png)
 
-<h4 align="center">https://quine.sh</h4>
+<h4 align="center">https://quine.sh/dashboard</h4>
 <p align="center"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
