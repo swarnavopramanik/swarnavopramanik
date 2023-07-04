@@ -6,7 +6,7 @@
  ![image](https://user-images.githubusercontent.com/105142693/188261970-e8c1f7a7-0f08-4c0d-8a0d-c01ca1d6b5a3.png)
 
 <h4 align="center">https://quine.sh</h4>
-<p align="left"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
+<p align="center"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnavopramanik&label=Profile%20views&color=0e75b6&style=flat" alt="swarnavopramanik" /> </p>
 
