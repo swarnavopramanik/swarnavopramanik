@@ -3,14 +3,24 @@
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>
 
+- 🔭 I’m currently working on making strong base with DSA along with web development (MERN) and AI.
+- 🌱 I’m currently learning Blockchain and ML.
+- 👯 I’m looking to collaborate on MERN and ML or any kind of software development project.
+- 💬 Ask me about how my codes are working at machine level😃.
+
  ![image](https://user-images.githubusercontent.com/105142693/188261970-e8c1f7a7-0f08-4c0d-8a0d-c01ca1d6b5a3.png)
+
+ - 📫 How to reach me :
+ - **swarnavo.pramanik1701@gmail.com**
+ - **https://twitter.com/swarnavo1701**
+ - **https://www.linkedin.com/in/swarnavo-pramanik-2327b0183/**
 
 <h4 align="center">https://quine.sh/dashboard</h4>
 <p align="center"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 How to reach me **swarnavo.pramanik1701@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
