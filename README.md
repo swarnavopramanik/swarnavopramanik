@@ -21,6 +21,11 @@
 
 <img align="left" width="460" height="300" src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik">
 
+<img align="left" width="460" height="300" src = "https://stats.quine.sh/swarnavopramanik/de>
+<img align="right" width="460" height="300" src = "https://stats.quine.sh/swarnavopramanik/dependencies?theme=dark">
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
