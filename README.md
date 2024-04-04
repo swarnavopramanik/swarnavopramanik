@@ -8,7 +8,9 @@
 - 👯 I’m looking to collaborate on MERN and ML or any kind of software development project.
 - 💬 Ask me about how my codes are working at machine level😃.
 
- ![image]<h1 align="center">(https://github.com/swarnavopramanik/swarnavopramanik/assets/105142693/77d7cb5b-8373-477c-8a8f-7e330767b8f1)</h1>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/swarnavopramanik/swarnavopramanik/assets/105142693/77d7cb5b-8373-477c-8a8f-7e330767b8f1">
+</p>
 
 
  - 📫 How to reach me :
