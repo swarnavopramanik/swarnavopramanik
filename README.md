@@ -18,8 +18,8 @@
  - **https://twitter.com/swarnavo1701**
  - **https://www.linkedin.com/in/swarnavo-pramanik-2327b0183/**
 
-<h4 align="center">https://quine.sh/dashboard</h4>
-<p align="center"> <img src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik" /> </p>
+
+<img align="left" width="460" height="300" src="https://stats.quine.sh/swarnavopramanik/github?theme=dark" alt="swarnavopramanik">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
