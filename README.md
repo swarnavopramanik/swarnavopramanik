@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
 <h3 align="center">A passionate full Stack developer from Kolkata</h3>
 
-- 🔭 I’m currently working on making strong base with DSA along with web development (MERN) and AI.
+- 🔭 I’m currently working on making strong base with DSA & CP along with web development (MERN) and AI.
 - 🌱 I’m currently learning Blockchain and ML.
-- 👯 I’m looking to collaborate on MERN and ML or any kind of software development project.
+- 👯 I’m looking to collaborate on MERN and ML or any kind of Software Development Project.
 - 💬 Ask me about how my codes are working at machine level😃.
 
 <p align="center">
