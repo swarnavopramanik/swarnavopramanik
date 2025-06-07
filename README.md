@@ -14,9 +14,14 @@
 
 
  - 📫 How to reach me :
- - **https://contact-services-from.onrender.com/**
- - **https://www.linkedin.com/in/swarnavo-pramanik-2327b0183/**
- - **https://twitter.com/swarnavo1701**
+ - [CONTACT](https://contact-services-from.onrender.com/)
+ - [LINKEDIN](https://www.linkedin.com/in/swarnavo-pramanik-2327b0183/)
+ - [TWITTER](https://twitter.com/swarnavo1701)
+ - [BENTO](https://bento.me/swarnavo)
+ - [PORTFOLIO](https://swarnavopramanik.vercel.app/)
+
+
+
 
 
 <br>
