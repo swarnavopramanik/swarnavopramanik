@@ -1,11 +1,11 @@
 ## ![image](https://user-images.githubusercontent.com/105142693/189518622-13d66fea-02a3-4a90-b1ba-5318870a58a9.png)
 
 <h1 align="center">Hi 👋, I'm Swarnavo 🧑‍💻</h1>
-<h3 align="center">A passionate full Stack developer from Kolkata</h3>
+<h3 align="center">A passionate SDET from Kolkata</h3>
 
-- 🔭 I’m currently working on making strong base with DSA & CP along with web development (MERN) and AI.
-- 🌱 I’m currently learning Blockchain and ML.
-- 👯 I’m looking to collaborate on MERN and ML or any kind of Software Development Project.
+- 🔭 I’m currently working on making strong base with Testing & Automation along with web development (MERN) and AI.
+- 🌱 I’m currently learning CI/CD Pipeline.
+- 👯 I’m looking to collaborate on SDET role or any kind of QA Aotomation Project.
 - 💬 Ask me about how my codes are working at machine level😃.
 
 <p align="center">
@@ -19,16 +19,6 @@
  - [TWITTER](https://twitter.com/swarnavo1701)
  - [BENTO](https://bento.me/swarnavo)
  - [PORTFOLIO](https://swarnavopramanik.vercel.app/)
-
-
-
-
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
 
 
 <h3 align="left">Connect with me:</h3>
