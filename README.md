@@ -10,12 +10,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnavo-pramanik-2327b0183) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@swarnavo.pramanik1701) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@swarnavopramanik1701) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnavo-pramanik-2327b0183) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@swarnavo.pramanik1701) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@swarnavopramanik1701) 
 
 
 ## 📫 How to reach me :
  - [CONTACT](https://contact-services-from.onrender.com/)
- - [LINKEDIN](https://www.linkedin.com/in/swarnavo-pramanik-2327b0183/)
  - [TWITTER](https://twitter.com/swarnavo1701)
  - [BENTO](https://bento.me/swarnavo)
  - [PORTFOLIO](https://swarnavopramanik.vercel.app/)
