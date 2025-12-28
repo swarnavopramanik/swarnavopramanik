@@ -8,9 +8,6 @@
 - 👯 I’m looking to collaborate on SDET role or any kind of QA Aotomation Project.
 - 💬 Ask me about how my codes are working at machine level😃.
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/swarnavopramanik/swarnavopramanik/assets/105142693/77d7cb5b-8373-477c-8a8f-7e330767b8f1">
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnavo-pramanik-2327b0183) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@swarnavo.pramanik1701) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@swarnavopramanik1701) 
@@ -31,6 +28,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=swarnavopramanik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=swarnavopramanik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavopramanik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![image](https://user-images.githubusercontent.com/105142693/189518482-33f3f800-07ea-4365-9567-bb31de103124.png)
+
+
+![image](https://user-images.githubusercontent.com/105142693/188321832-c6c10901-cb50-4ea5-9555-20aee829cde3.png)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swarnavopramanik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
