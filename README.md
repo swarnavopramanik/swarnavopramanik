@@ -33,7 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/105142693/188321832-c6c10901-cb50-4ea5-9555-20aee829cde3.png)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=swarnavopramanik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
